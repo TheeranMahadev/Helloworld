@@ -16,7 +16,8 @@ public class HelloWorld extends HttpServlet
   {
     PrintWriter out = resp.getWriter();
     out.println("Hello hai from the gradle!!!!!!!");
-    
+    out.println("Hello hai from the gradle!!!!!!!");
+
    
     
   
